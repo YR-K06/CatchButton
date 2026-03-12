@@ -8,12 +8,16 @@
 ## 실행화면
 -1단계 코드의 실행 스크린샷
 <img width="641" height="395" alt="image" src="https://github.com/user-attachments/assets/7312b717-14c9-465d-8c36-7e59ce55f833" />
+
 -2단계 코드의 실행 스크린샷
 <img width="339" height="255" alt="image" src="https://github.com/user-attachments/assets/10d525b1-d55d-48bd-a01b-f392fb11b896" />
+
 -3단계 코드의 실행 스크린샷
 <img width="339" height="255" alt="image" src="https://github.com/user-attachments/assets/fcd4db17-4e47-4675-ab96-2c064dc1c7e9" />
 <img width="629" height="395" alt="image" src="https://github.com/user-attachments/assets/9b48cdbc-cbd5-45c5-9669-a1d6f1a2779e" />
+
 -4단계 코드의 실행 스크린샷
+
 
 ## 구현시 어려웠던 점
 -버튼이 폼 밖으로 나가지 않게 하는 방법을 찾기가 어려웠다.
