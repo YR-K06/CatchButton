@@ -34,7 +34,7 @@
             // RunningButton
             // 
             RunningButton.BackColor = SystemColors.InactiveCaption;
-            RunningButton.Font = new Font("맑은 고딕", 20F, FontStyle.Bold, GraphicsUnit.Point, 129);
+            RunningButton.Font = new Font("맑은 고딕", 14F, FontStyle.Bold, GraphicsUnit.Point, 129);
             RunningButton.ForeColor = SystemColors.InactiveCaptionText;
             RunningButton.Location = new Point(215, 230);
             RunningButton.Name = "RunningButton";
@@ -42,8 +42,8 @@
             RunningButton.TabIndex = 0;
             RunningButton.Text = "나를 잡아봐";
             RunningButton.UseVisualStyleBackColor = false;
-            RunningButton.MouseEnter += RunningButton_MouseEnter;
             RunningButton.Click += RunningButton_Click;
+            RunningButton.MouseEnter += RunningButton_MouseEnter;
             // 
             // Box
             // 
