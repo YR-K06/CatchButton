@@ -39,6 +39,8 @@ namespace CatchButton
         {
             // 잡혔을 때 효과음 재생
             PlaySound("caught.wav");
+            // 메시지 박스 표시
+            MessageBox.Show("축하합니다~!", "알림", MessageBoxButtons.OK, MessageBoxIcon.Information);
 
         }
 
