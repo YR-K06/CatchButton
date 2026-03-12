@@ -1,6 +1,6 @@
 ﻿namespace CatchButton
 {
-    partial class ground
+    partial class Box
     {
         /// <summary>
         ///  Required designer variable.
@@ -43,14 +43,15 @@
             RunningButton.Text = "나를 잡아봐";
             RunningButton.UseVisualStyleBackColor = false;
             RunningButton.MouseEnter += RunningButton_MouseEnter;
+            RunningButton.Click += RunningButton_Click;
             // 
-            // ground
+            // Box
             // 
             AutoScaleDimensions = new SizeF(10F, 25F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(1270, 746);
             Controls.Add(RunningButton);
-            Name = "ground";
+            Name = "Box";
             Text = "Form1";
             ResumeLayout(false);
         }
